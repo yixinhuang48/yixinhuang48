@@ -121,7 +121,7 @@ LLM environment framework for interactive evaluation
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/yixinhuang48/yixinhuang48.github.io/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/yixinhuang48/yixinhuang48/output/github-contribution-grid-snake.svg)
 
 **⚡️ GitHub Stats Summary**
 
