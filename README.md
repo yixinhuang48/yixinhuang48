@@ -40,10 +40,6 @@ I work on **LLM systems, evaluation, and GPU-accelerated ML infrastructure**.
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true&bgColor=0D1117)
 
-**🎭 Random Dev Meme**
-
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 </div>
 
 ---
