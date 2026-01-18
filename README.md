@@ -16,7 +16,7 @@ I work on **LLM systems, evaluation, and GPU-accelerated ML infrastructure**.
 
 **🏆 GitHub Achievements:** ![Pull Shark](https://img.shields.io/badge/Pull%20Shark-achievement-blue?style=flat-square) ![Quickdraw](https://img.shields.io/badge/Quickdraw-achievement-blue?style=flat-square)
 
-![GitHub Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+> "A journey of a thousand miles begins with a single step." — Confucius
 
 </div>
 
