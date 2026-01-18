@@ -16,6 +16,8 @@ I work on **LLM systems, evaluation, and GPU-accelerated ML infrastructure**.
 
 **🏆 GitHub Achievements:** ![Pull Shark](https://img.shields.io/badge/Pull%20Shark-achievement-blue?style=flat-square) ![Quickdraw](https://img.shields.io/badge/Quickdraw-achievement-blue?style=flat-square)
 
+![GitHub Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 </div>
 
 ---
@@ -29,6 +31,18 @@ I work on **LLM systems, evaluation, and GPU-accelerated ML infrastructure**.
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=yixinhuang48&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yixinhuang48&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D)
+
+</div>
+
+<div align="center">
+
+**💬 Random Dev Joke**
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true&bgColor=0D1117)
+
+**🎭 Random Dev Meme**
+
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 </div>
 
@@ -50,6 +64,13 @@ I work on **LLM systems, evaluation, and GPU-accelerated ML infrastructure**.
 ![Slurm](https://img.shields.io/badge/Slurm-FF6B00?style=for-the-badge&logo=slurm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![vLLM](https://img.shields.io/badge/vLLM-FF6B00?style=for-the-badge&logo=python&logoColor=white)
+![SGLang](https://img.shields.io/badge/SGLang-FF6B9D?style=for-the-badge&logo=python&logoColor=white)
+![NeMo RL](https://img.shields.io/badge/NeMo%20RL-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Areal](https://img.shields.io/badge/Areal-028CF0?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -109,10 +130,24 @@ LLM environment framework for interactive evaluation
 - ⚡ Training & serving efficiency on multi-GPUs
 - 🎯 Reward modeling and RL for LLM agents
 
+#### 📚 Currently Learning
+- Advanced distributed training techniques (FSDP, DeepSpeed)
+- GPU memory optimization and profiling
+- Large-scale RL systems architecture
+
 ---
 
-#### 🔗 Links
+#### 🔗 Connect with Me
 - 🌐 **Website**: [hao-ai-lab.github.io/people/](https://hao-ai-lab.github.io/people/)
+- 💬 **Discussions**: Feel free to open an issue or discussion on any of my repositories!
+
+<div align="center">
+
+**📈 Profile Summary**
+
+![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yixinhuang48&theme=radical)
+
+</div>
 
 ---
 
