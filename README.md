@@ -12,7 +12,7 @@ I work on **LLM systems, evaluation, and GPU-accelerated ML infrastructure**.
 [![GitHub](https://img.shields.io/badge/GitHub-yixinhuang48-black?style=flat-square&logo=github)](https://github.com/yixinhuang48)
 [![UCSD](https://img.shields.io/badge/UCSD-Hao%20AI%20Lab-blue?style=flat-square&logo=university)](https://hao-ai-lab.github.io/)
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yixinhuang48.yixinhuang48)
+![Visitor Count](https://komarev.com/ghpvc/?username=yixinhuang48&color=FF6B9D&style=flat-square)
 
 **🏆 GitHub Achievements:** ![Pull Shark](https://img.shields.io/badge/Pull%20Shark-achievement-blue?style=flat-square) ![Quickdraw](https://img.shields.io/badge/Quickdraw-achievement-blue?style=flat-square)
 
@@ -41,9 +41,7 @@ I work on **LLM systems, evaluation, and GPU-accelerated ML infrastructure**.
 
 **Tech Stack:**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Ray](https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white) ![Slurm](https://img.shields.io/badge/Slurm-FF6B00?style=for-the-badge&logo=slurm&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-![vLLM](https://img.shields.io/badge/vLLM-FF6B00?style=for-the-badge&logo=python&logoColor=white) ![SGLang](https://img.shields.io/badge/SGLang-FF6B9D?style=for-the-badge&logo=python&logoColor=white) ![NeMo RL](https://img.shields.io/badge/NeMo%20RL-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![Areal](https://img.shields.io/badge/Areal-028CF0?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Ray](https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white) ![Slurm](https://img.shields.io/badge/Slurm-FF6B00?style=for-the-badge&logo=slurm&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![vLLM](https://img.shields.io/badge/vLLM-FF6B00?style=for-the-badge&logo=python&logoColor=white) ![SGLang](https://img.shields.io/badge/SGLang-FF6B9D?style=for-the-badge&logo=python&logoColor=white) ![NeMo RL](https://img.shields.io/badge/NeMo%20RL-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![Areal](https://img.shields.io/badge/Areal-028CF0?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
