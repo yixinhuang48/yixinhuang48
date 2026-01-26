@@ -8,9 +8,10 @@ I work on **LLM systems, evaluation, and GPU-accelerated ML infrastructure**.
 **RA @ UCSD Hao AI Lab** | M.S. Computer Science student  
 📍 San Diego, CA | Focused on large-scale training, inference, and agent evaluation.
 
-[![Website](https://img.shields.io/badge/Website-hao--ai--lab.github.io-blue?style=flat-square&logo=google-chrome)](https://hao-ai-lab.github.io/people/)
+[![Personal Website](https://img.shields.io/badge/🌐_Personal_Site-yixinhuang48.github.io-FF6B9D?style=flat-square)](https://yixinhuang48.github.io)
+[![Lab Website](https://img.shields.io/badge/Lab-Hao_AI_Lab-blue?style=flat-square&logo=google-chrome)](https://hao-ai-lab.github.io/people/)
 [![GitHub](https://img.shields.io/badge/GitHub-yixinhuang48-black?style=flat-square&logo=github)](https://github.com/yixinhuang48)
-[![UCSD](https://img.shields.io/badge/UCSD-Hao%20AI%20Lab-blue?style=flat-square&logo=university)](https://hao-ai-lab.github.io/)
+[![Zhihu](https://img.shields.io/badge/知乎-Zhihu-0084FF?style=flat-square&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/hola-98-83)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=yixinhuang48&color=FF6B9D&style=flat-square)
 
@@ -109,7 +110,9 @@ LLM environment framework for interactive evaluation
 ---
 
 #### 🔗 Connect with Me
-- 🌐 **Website**: [hao-ai-lab.github.io/people/](https://hao-ai-lab.github.io/people/)
+- 🌐 **Personal Website**: [yixinhuang48.github.io](https://yixinhuang48.github.io)
+- 🔬 **Lab Website**: [hao-ai-lab.github.io/people/](https://hao-ai-lab.github.io/people/)
+- 📝 **Zhihu**: [知乎](https://www.zhihu.com/people/hola-98-83)
 - 💬 **Discussions**: Feel free to open an issue or discussion on any of my repositories!
 
 <div align="center">
