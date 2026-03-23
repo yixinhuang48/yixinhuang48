@@ -16,13 +16,7 @@ I work on **LLM systems, evaluation, and GPU-accelerated ML infrastructure**.
 #### Research Interests
 - LLM evaluation & benchmarks (agents, games, scientific reasoning)
 - Large-scale training & inference systems (FSDP, vLLM, Ray, Slurm)
-- GPU efficiency, memory systems, and model parallelism
 - Reinforcement learning for agents (GRPO, NeMo-Gym)
-
-#### Current Focus
-- Scaling agent evaluation with interactive environments
-- Training & serving efficiency on multi-GPUs
-- Reward modeling and RL for LLM agents
 
 ---
 
