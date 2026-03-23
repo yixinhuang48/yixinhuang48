@@ -1,5 +1,7 @@
 ### Hi, I'm Yixin Huang
 
+[yixinhuang48.github.io](https://yixinhuang48.github.io) · [Hao AI Lab](https://hao-ai-lab.github.io/people/) · [Google Scholar](https://scholar.google.com/citations?user=g3LbHe4AAAAJ&hl=en) · ![Visitor Count](https://komarev.com/ghpvc/?username=yixinhuang48&color=grey&style=flat-square)
+
 Research Assistant at [UCSD Hao AI Lab](https://hao-ai-lab.github.io/) · M.S. Computer Science Student · San Diego, CA
 
 I work on **LLM systems, evaluation, and GPU-accelerated ML infrastructure**.
@@ -35,10 +37,3 @@ I work on **LLM systems, evaluation, and GPU-accelerated ML infrastructure**.
 #### Tech Stack
 Python · PyTorch · CUDA · vLLM · SGLang · NeMo RL · Ray · Docker · Slurm · FSDP · DeepSpeed · Linux · Git
 
----
-
-#### Links
-- Personal Website: [yixinhuang48.github.io](https://yixinhuang48.github.io)
-- Lab: [Hao AI Lab](https://hao-ai-lab.github.io/people/)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=yixinhuang48&color=grey&style=flat-square)
