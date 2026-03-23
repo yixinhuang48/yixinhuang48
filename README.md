@@ -1,6 +1,9 @@
 ### Hi, I'm Yixin Huang
 
-[yixinhuang48.github.io](https://yixinhuang48.github.io) · [Hao AI Lab](https://hao-ai-lab.github.io/people/) · [Google Scholar](https://scholar.google.com/citations?user=g3LbHe4AAAAJ&hl=en) · ![Visitor Count](https://komarev.com/ghpvc/?username=yixinhuang48&color=grey&style=flat-square)
+🌐 **[yixinhuang48.github.io](https://yixinhuang48.github.io)** — personal website
+🔬 **[Hao AI Lab](https://hao-ai-lab.github.io/people/)** — research group
+📚 **[Google Scholar](https://scholar.google.com/citations?user=g3LbHe4AAAAJ&hl=en)** — publications
+👁 ![Visitor Count](https://komarev.com/ghpvc/?username=yixinhuang48&color=grey&style=flat-square)
 
 Research Assistant at [UCSD Hao AI Lab](https://hao-ai-lab.github.io/) · M.S. Computer Science Student · San Diego, CA
 
