@@ -24,9 +24,9 @@ I work on **LLM systems, evaluation, and GPU-accelerated ML infrastructure**.
 
 | Project | Description |
 |---|---|
-| [GamingAgent](https://github.com/lmgame-org/GamingAgent) ⭐ 843 | LLM/VLM gaming agents for model evaluation — long-horizon reasoning, memory & perception (Doom, Sokoban, Tetris, Pokémon Red) |
+| [GamingAgent](https://github.com/lmgame-org/GamingAgent) | LLM/VLM gaming agents for model evaluation — long-horizon reasoning, memory & perception (Doom, Sokoban, Tetris, Pokémon Red) |
 | [VideoScience](https://github.com/hao-ai-lab/VideoScience) | Benchmark for scientific correctness in text-to-video models — physics & chemistry concepts, VLM-as-Judge scoring |
-| [NVIDIA NeMo Gym](https://github.com/NVIDIA-NeMo/Gym) ⭐ 603 | RL environments for LLM training — scalable RL, reward profiling, GRPO (Sokoban & Tetris) |
+| [NVIDIA NeMo Gym](https://github.com/NVIDIA-NeMo/Gym) | RL environments for LLM training — scalable RL, reward profiling, GRPO (Integrating Sokoban & Tetris) |
 | [lmenv](https://github.com/lmgame-org/lmenv) | LLM environment framework for interactive evaluation — standardized interfaces for game-based agent testing |
 
 ---
